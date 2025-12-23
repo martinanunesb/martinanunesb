@@ -15,7 +15,7 @@ Sou **Engenheira Civil em transição para Análise de Dados** e estou construin
 - aprofundando **Python** e **Power BI** 
 - melhorando documentação e organização dos projetos
 
-  ### 🚀 Linguagens e ferramentas
+### 🚀 Linguagens e ferramentas
 ![SQL](https://img.shields.io/badge/SQL-2F2F2F?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
