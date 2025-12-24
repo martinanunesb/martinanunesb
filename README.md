@@ -4,7 +4,7 @@ Sou engenheira civil em transição de carreira para Análise de Dados e estou c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinanunes/)
 
-Estou em evolução constante e meu GitHub é o registro disso
+**Estou em evolução constante e meu GitHub é o registro disso**
 
 ### No que estou trabalhando agora
 - evoluindo meu portfólio com projetos mais completos 
@@ -25,4 +25,6 @@ Estou em evolução constante e meu GitHub é o registro disso
 > Se você tiver sugestões de como melhorar meus projetos/README/código, eu aceito. De verdade.
 
 ### 🌍 Idiomas
-🇧🇷 Português • 🇺🇸 Inglês • 🇪🇸 Espanhol
+![PT-BR](https://img.shields.io/badge/PT--BR-Português-2F2F2F?style=for-the-badge)
+![EN-US](https://img.shields.io/badge/EN--US-Inglês-2F2F2F?style=for-the-badge)
+![ES-ES](https://img.shields.io/badge/ES--ES-Espanhol-2F2F2F?style=for-the-badge)
