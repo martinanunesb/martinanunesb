@@ -4,10 +4,7 @@ Sou engenheira civil em transição de carreira para Análise de Dados e estou c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinanunes/)
 
-### Como eu penso
-- sempre fui curiosa e observadora, desde pequena eu gosto de entender o porquê das coisas e procurar padrões  
-- gosto de ir na raiz do problema: **dado, regra, métrica**
-- estou em evolução constante e meu GitHub é o registro disso
+Estou em evolução constante e meu GitHub é o registro disso
 
 ### No que estou trabalhando agora
 - evoluindo meu portfólio com projetos mais completos 
