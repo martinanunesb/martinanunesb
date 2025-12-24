@@ -1,6 +1,6 @@
 # Oie! Eu sou a Martina 😊
 
-Sou engenheira civil em transição de carreira para análise de dados e estou construindo meu caminho com consistência, projeto por projeto. Tenho mais afinidade com **SQL**, é onde eu me sinto em casa: modelagem, consultas, lógica e transformar dados confusos em informação útil. Meu objetivo é atuar como data analyst, usando SQL como base para análises e modelagem e **Python/Power BI** para automatizar e comunicar resultados. 
+Sou engenheira civil em transição de carreira para Análise de Dados e estou construindo meu caminho com consistência, projeto por projeto. Minha curiosidade sempre  foi o motor: desde pequena eu gosto de entender o porquê das coisas e procurar padrões — e dados virou o lugar certo pra isso. Meu objetivo é juntar minha bagagem da engenharia com meu lado curioso para construir uma atuação sólida como Data Analyst.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinanunes/)
 
