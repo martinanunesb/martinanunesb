@@ -25,6 +25,7 @@ Sou engenheira civil em transição de carreira para Análise de Dados e estou c
 > Se você tiver sugestões de como melhorar meus projetos/README/código, eu aceito. De verdade.
 
 ### 🌍 Idiomas
-![PT-BR](https://img.shields.io/badge/PT--BR-Português-2F2F2F?style=for-the-badge)
-![EN-US](https://img.shields.io/badge/EN--US-Inglês-2F2F2F?style=for-the-badge)
-![ES-ES](https://img.shields.io/badge/ES--ES-Espanhol-2F2F2F?style=for-the-badge)
+![Português](https://img.shields.io/badge/Português-Nativo-2F2F2F?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Inglês-Fluente-2F2F2F?style=for-the-badge)
+![Espanhol](https://img.shields.io/badge/Espanhol-Fluente-2F2F2F?style=for-the-badge)
+
