@@ -3,7 +3,7 @@
 Sou engenheira civil em transição de carreira para Análise de Dados e estou construindo meu caminho com consistência, projeto por projeto. Minha curiosidade sempre  foi o motor: desde pequena eu gosto de entender o porquê das coisas e procurar padrões — e dados virou o lugar certo pra isso. Meu objetivo é juntar minha bagagem da engenharia com meu lado curioso para construir uma atuação sólida como Data Analyst.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinanunes/)
-[![Email](https://img.shields.io/badge/Email-martinanunes76%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinanunes76@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinanunes76@gmail.com)
 
 **Estou em evolução constante e meu GitHub é o registro disso**
 
